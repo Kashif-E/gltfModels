@@ -1,0 +1,1432 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 153600,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 27356,
+      "max": [
+        -3.4349799156189,
+        -0.514544248580933,
+        6.37781286239624
+      ],
+      "min": [
+        -5.44654178619385,
+        -3.51420545578003,
+        4.89428281784058
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 27356,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 27356,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 2736,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 573,
+      "max": [
+        -3.59835529327393,
+        -3.17255926132202,
+        5.27076053619385
+      ],
+      "min": [
+        -3.89985847473145,
+        -3.30201601982117,
+        5.03875589370728
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 573,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 573,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5125,
+      "count": 192561,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 32788,
+      "max": [
+        -3.65764975547791,
+        -3.20173811912537,
+        6.33529806137085
+      ],
+      "min": [
+        -5.06870698928833,
+        -6.11673831939697,
+        5.05952167510986
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 32788,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 32788,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5125,
+      "count": 5640,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 966,
+      "max": [
+        6.81799411773682,
+        71.2128601074219,
+        38.6280212402344
+      ],
+      "min": [
+        -6.38680934906006,
+        67.4933624267578,
+        34.3740730285645
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 966,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 966,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5125,
+      "count": 84525,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 14523,
+      "max": [
+        14.3152551651001,
+        84.0308837890625,
+        43.4263534545898
+      ],
+      "min": [
+        -14.2502918243408,
+        45.3892288208008,
+        10.261266708374
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 14523,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 14523,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5125,
+      "count": 80367,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 13641,
+      "max": [
+        15.3024253845215,
+        85.1220397949219,
+        43.6367797851562
+      ],
+      "min": [
+        -14.529146194458,
+        51.6099395751953,
+        7.94315147399902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 13641,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 13641,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5125,
+      "count": 2532,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5126,
+      "count": 492,
+      "max": [
+        8.46862602233887,
+        73.4534454345703,
+        40.4415702819824
+      ],
+      "min": [
+        -8.06883430480957,
+        69.9174880981445,
+        35.5356597900391
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 492,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 27,
+      "componentType": 5126,
+      "count": 492,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 28,
+      "componentType": 5125,
+      "count": 477708,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 29,
+      "componentType": 5126,
+      "count": 173712,
+      "max": [
+        16.2526741027832,
+        85.7390441894531,
+        46.8228912353516
+      ],
+      "min": [
+        -15.1237850189209,
+        46.1913909912109,
+        5.25772285461426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 30,
+      "componentType": 5126,
+      "count": 173712,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 31,
+      "componentType": 5126,
+      "count": 173712,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 32,
+      "componentType": 5125,
+      "count": 162705,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 33,
+      "componentType": 5126,
+      "count": 72321,
+      "max": [
+        9.16509246826172,
+        73.5111770629883,
+        41.1090240478516
+      ],
+      "min": [
+        -8.64247894287109,
+        69.8564910888672,
+        35.5996894836426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 72321,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 35,
+      "componentType": 5126,
+      "count": 72321,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 36,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 37,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.499999523162842,
+        0.0,
+        0.5
+      ],
+      "min": [
+        -0.5,
+        -1.9073486328125e-06,
+        -0.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 39,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Substance Painter 6.2.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 614400,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 328272,
+      "byteOffset": 614400,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 328272,
+      "byteOffset": 942672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 218848,
+      "byteOffset": 1270944,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10944,
+      "byteOffset": 1489792,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6876,
+      "byteOffset": 1500736,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6876,
+      "byteOffset": 1507612,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4584,
+      "byteOffset": 1514488,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 770244,
+      "byteOffset": 1519072,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 393456,
+      "byteOffset": 2289316,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 393456,
+      "byteOffset": 2682772,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 262304,
+      "byteOffset": 3076228,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22560,
+      "byteOffset": 3338532,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11592,
+      "byteOffset": 3361092,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11592,
+      "byteOffset": 3372684,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7728,
+      "byteOffset": 3384276,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 338100,
+      "byteOffset": 3392004,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 174276,
+      "byteOffset": 3730104,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 174276,
+      "byteOffset": 3904380,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 116184,
+      "byteOffset": 4078656,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 321468,
+      "byteOffset": 4194840,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 163692,
+      "byteOffset": 4516308,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 163692,
+      "byteOffset": 4680000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 109128,
+      "byteOffset": 4843692,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10128,
+      "byteOffset": 4952820,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5904,
+      "byteOffset": 4962948,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5904,
+      "byteOffset": 4968852,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3936,
+      "byteOffset": 4974756,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1910832,
+      "byteOffset": 4978692,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2084544,
+      "byteOffset": 6889524,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2084544,
+      "byteOffset": 8974068,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1389696,
+      "byteOffset": 11058612,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 650820,
+      "byteOffset": 12448308,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 867852,
+      "byteOffset": 13099128,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 867852,
+      "byteOffset": 13966980,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 578568,
+      "byteOffset": 14834832,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 15413400,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 15413424,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 15413472,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32,
+      "byteOffset": 15413520,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 15413552,
+      "uri": "trump_realistic.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "Fibers391_baseColor.png"
+    },
+    {
+      "uri": "Fibers391_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Fibers391_normal.png"
+    },
+    {
+      "uri": "Fibers391_emissive.png"
+    },
+    {
+      "uri": "lambert10_baseColor.png"
+    },
+    {
+      "uri": "lambert10_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "lambert10_normal.png"
+    },
+    {
+      "uri": "shape_baseColor.png"
+    },
+    {
+      "uri": "shape_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "shape_normal.png"
+    },
+    {
+      "uri": "TrumpBust_cejas16_baseColor.png"
+    },
+    {
+      "uri": "TrumpBust_cejas16_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "TrumpBust_cejas16_normal.png"
+    },
+    {
+      "uri": "TrumpBust_eye_mtl_7_baseColor.png"
+    },
+    {
+      "uri": "TrumpBust_eye_mtl_7_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "TrumpBust_eye_mtl_7_normal.png"
+    },
+    {
+      "uri": "TrumpBust_Fibers237_baseColor.png"
+    },
+    {
+      "uri": "TrumpBust_Fibers237_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "TrumpBust_Fibers237_normal.png"
+    },
+    {
+      "uri": "TrumpBust_Fibers237_emissive.png"
+    },
+    {
+      "uri": "TrumpBust_head_mtl_5_baseColor.png"
+    },
+    {
+      "uri": "TrumpBust_head_mtl_5_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "TrumpBust_head_mtl_5_normal.png"
+    },
+    {
+      "uri": "TrumpBust_uploads_files_1947275_trump+smile_low2_13_baseColor.png"
+    },
+    {
+      "uri": "TrumpBust_uploads_files_1947275_trump+smile_low2_13_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "TrumpBust_uploads_files_1947275_trump+smile_low2_13_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "OPAQUE",
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 3
+      },
+      "name": "Fibers391",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "lambert10",
+      "normalTexture": {
+        "index": 6
+      },
+      "occlusionTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "shape",
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 8
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "TrumpBust_cejas16",
+      "normalTexture": {
+        "index": 12
+      },
+      "occlusionTexture": {
+        "index": 11
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 10
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "TrumpBust_eye_mtl_7",
+      "normalTexture": {
+        "index": 15
+      },
+      "occlusionTexture": {
+        "index": 14
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 13
+        },
+        "metallicRoughnessTexture": {
+          "index": 14
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 19
+      },
+      "name": "TrumpBust_Fibers237",
+      "normalTexture": {
+        "index": 18
+      },
+      "occlusionTexture": {
+        "index": 17
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 16
+        },
+        "metallicRoughnessTexture": {
+          "index": 17
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "TrumpBust_head_mtl_5",
+      "normalTexture": {
+        "index": 22
+      },
+      "occlusionTexture": {
+        "index": 21
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 20
+        },
+        "metallicRoughnessTexture": {
+          "index": 21
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "TrumpBust_uploads_files_1947275_trump+smile_low2_13",
+      "normalTexture": {
+        "index": 25
+      },
+      "occlusionTexture": {
+        "index": 24
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 23
+        },
+        "metallicRoughnessTexture": {
+          "index": 24
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "ManStanding:Group34858",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ManStanding:Group45462",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ManStanding:Group27800",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TEXCOORD_0": 11
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TrumpBust:eyeball",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TEXCOORD_0": 15
+          },
+          "indices": 12,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TrumpBust:head",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 18,
+            "POSITION": 17,
+            "TEXCOORD_0": 19
+          },
+          "indices": 16,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TrumpBust:uploads_files_1947275_trump+smile_low2_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21,
+            "TEXCOORD_0": 23
+          },
+          "indices": 20,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TrumpBust:cejas1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TEXCOORD_0": 27
+          },
+          "indices": 24,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TrumpBust:Fibers23",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 30,
+            "POSITION": 29,
+            "TEXCOORD_0": 31
+          },
+          "indices": 28,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Fibers39",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 34,
+            "POSITION": 33,
+            "TEXCOORD_0": 35
+          },
+          "indices": 32,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "pPlane1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 38,
+            "POSITION": 37,
+            "TEXCOORD_0": 39
+          },
+          "indices": 36,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        8,
+        25,
+        28
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        2,
+        4,
+        6
+      ],
+      "name": "group1",
+      "rotation": [
+        0.0,
+        0.99990051984787,
+        0.0,
+        -0.0141056384891272
+      ],
+      "scale": [
+        29.4923515319824,
+        29.4923515319824,
+        29.4923515319824
+      ],
+      "translation": [
+        -128.569320678711,
+        180.030014038086,
+        163.643356323242
+      ]
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "ManStanding:Group34858",
+      "rotation": [
+        -3.68417791551708e-34,
+        1.73472347597681e-18,
+        1.30553414806597e-32,
+        1.0
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "ManStanding:Group34858"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "ManStanding:Group45462",
+      "rotation": [
+        -3.68417791551708e-34,
+        1.73472347597681e-18,
+        1.30553414806597e-32,
+        1.0
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "ManStanding:Group45462"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "ManStanding:Group27800",
+      "rotation": [
+        -3.68417791551708e-34,
+        1.73472347597681e-18,
+        1.30553414806597e-32,
+        1.0
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "ManStanding:Group27800"
+    },
+    {
+      "children": [
+        9,
+        22
+      ],
+      "name": "group",
+      "rotation": [
+        0.0,
+        0.286290407180786,
+        0.0,
+        0.958142876625061
+      ],
+      "scale": [
+        0.689971148967743,
+        0.689971089363098,
+        0.689971148967743
+      ],
+      "translation": [
+        -11.1774291992188,
+        124.608955383301,
+        -19.7376232147217
+      ]
+    },
+    {
+      "children": [
+        10,
+        17
+      ],
+      "name": "TrumpBust:group1",
+      "rotation": [
+        0.0,
+        5.55111512312578e-17,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        11,
+        12,
+        15
+      ],
+      "name": "TrumpBust:DonaldTrumpBust"
+    },
+    {
+      "name": "TrumpBust:suit",
+      "rotation": [
+        0.0,
+        -2.77555756156289e-17,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "TrumpBust:eyes",
+      "rotation": [
+        0.0,
+        -2.77555756156289e-17,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "TrumpBust:eyeball",
+      "rotation": [
+        0.0,
+        -5.6138021786675e-17,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.656777679920197
+      ],
+      "translation": [
+        -1.77635683940025e-15,
+        0.0,
+        12.5617761611938
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "TrumpBust:eyeball"
+    },
+    {
+      "children": [
+        16
+      ],
+      "name": "TrumpBust:head",
+      "rotation": [
+        0.0,
+        -2.77555756156289e-17,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "TrumpBust:head"
+    },
+    {
+      "children": [
+        18,
+        20
+      ],
+      "name": "TrumpBust:group"
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "TrumpBust:uploads_files_1947275_trump+smile_low2_1",
+      "rotation": [
+        0.0,
+        -2.77555756156289e-17,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "mesh": 5,
+      "name": "TrumpBust:uploads_files_1947275_trump+smile_low2_1"
+    },
+    {
+      "children": [
+        21
+      ],
+      "name": "TrumpBust:cejas1",
+      "rotation": [
+        0.0,
+        -2.77555756156289e-17,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1.77635683940025e-15,
+        2.8421709430404e-14,
+        0.0968085378408432
+      ]
+    },
+    {
+      "mesh": 6,
+      "name": "TrumpBust:cejas1"
+    },
+    {
+      "children": [
+        23
+      ],
+      "name": "TrumpBust:group",
+      "rotation": [
+        0.0,
+        5.55111512312578e-17,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        24
+      ],
+      "name": "TrumpBust:Fibers23"
+    },
+    {
+      "mesh": 7,
+      "name": "TrumpBust:Fibers23"
+    },
+    {
+      "children": [
+        26
+      ],
+      "name": "group2",
+      "rotation": [
+        0.0,
+        0.286290436983109,
+        0.0,
+        0.958142876625061
+      ],
+      "scale": [
+        0.689999997615814,
+        0.689999997615814,
+        0.689999997615814
+      ],
+      "translation": [
+        -11.0737895965576,
+        124.663459777832,
+        -19.8373222351074
+      ]
+    },
+    {
+      "children": [
+        27
+      ],
+      "name": "Fibers39",
+      "rotation": [
+        0.0,
+        8.32667268468867e-17,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "mesh": 8,
+      "name": "Fibers39"
+    },
+    {
+      "children": [
+        29
+      ],
+      "name": "pPlane1",
+      "rotation": [
+        0.432541221380234,
+        0.229794099926949,
+        -0.289850682020187,
+        0.822246551513672
+      ],
+      "scale": [
+        1.9393218755722,
+        1.15375137329102,
+        1.17922806739807
+      ],
+      "translation": [
+        8.64799976348877,
+        145.58805847168,
+        -0.417514890432358
+      ]
+    },
+    {
+      "mesh": 9,
+      "name": "pPlane1"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9985,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    },
+    {
+      "sampler": 0,
+      "source": 13
+    },
+    {
+      "sampler": 0,
+      "source": 14
+    },
+    {
+      "sampler": 0,
+      "source": 15
+    },
+    {
+      "sampler": 0,
+      "source": 16
+    },
+    {
+      "sampler": 0,
+      "source": 17
+    },
+    {
+      "sampler": 0,
+      "source": 18
+    },
+    {
+      "sampler": 0,
+      "source": 19
+    },
+    {
+      "sampler": 0,
+      "source": 20
+    },
+    {
+      "sampler": 0,
+      "source": 21
+    },
+    {
+      "sampler": 0,
+      "source": 22
+    },
+    {
+      "sampler": 0,
+      "source": 23
+    },
+    {
+      "sampler": 0,
+      "source": 24
+    },
+    {
+      "sampler": 0,
+      "source": 25
+    }
+  ]
+}
